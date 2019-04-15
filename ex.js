@@ -1,4 +1,12 @@
+//1
+var str = "#";
 
+for(var i = 0; i < 8; i++){
+    str += ' ' + '#';
+  console.log(str);
+}
+
+//2
 var i = 0;
 while(i < 100){
   i++;
